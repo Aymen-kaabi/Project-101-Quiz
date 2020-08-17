@@ -37,6 +37,24 @@ p2{
 	margin:auto;
 	width: 20%;
 }
-a{
-	margin: auto;
+#go{
+    border-radius: 15px;
+    border: 1.5px solid black;
+    width: 30%;
+    background: white;
+}
+p3{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px; 
+
+}
+label{
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+}
+#social{
+    width: 20px;
 }
