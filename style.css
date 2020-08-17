@@ -1,11 +1,42 @@
-body {background-color: #b41a83;}
+body {background-color: #b41a83;
+
+}
+/*body {
+  background-image: url("https://k4q5g9i9.rocketcdn.me/wp-content/uploads/2019/12/Sans-titre-1.png");
+  background-size: cover;
+}*/
 p{
 	color: white;
     float:right;
     font-family: Arial;
     font-size: 150px;
+    margin-right:100px 
+
 }
 img{
 	float: center;
 	width: 6000px;
+
+}
+button{
+	float:center;
+    padding: 50px 190px;
+    font-size: 60px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+p2{
+	color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 100px;
+
+}
+#op{
+	margin:auto;
+	width: 20%;
+}
+a{
+	margin: auto;
 }
