@@ -14,7 +14,6 @@ p{
 
 }
 img{
-	float: center;
 	width: 6000px;
 
 }
@@ -57,4 +56,27 @@ label{
 }
 #social{
     width: 20px;
+}
+#but{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+p6{
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    font-size: 100px;
+}
+#img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
